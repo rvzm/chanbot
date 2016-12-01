@@ -1,0 +1,5 @@
+# chanbot changelog
+
+v0.1
+ - add basic channel op/deop function
+ - add basic channel topic manipulation
